@@ -1,0 +1,12 @@
+## Interface: 20504
+## Title: |cff7fd5ffGlass|rTip
+## Notes: A clean, modern unit tooltip. Name, level, elite, creature type and health, with skins, profiles and full anchor control.
+## Author: Jabe
+## Version: 1.1.0
+## SavedVariables: GlassTipDB
+## DefaultState: enabled
+
+Core.lua
+Skins.lua
+Widgets.lua
+Options.lua
