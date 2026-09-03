@@ -1,0 +1,14 @@
+## Interface: 20505
+## Title: |cff9be8ffSilk|r
+## Notes: Capsule unit frames with a fluid fill engine. No sharp edges, anywhere.
+## Author: Claude
+## Version: 2.5.1
+## SavedVariables: SilkDB
+
+Core.lua
+Bars.lua
+Auras.lua
+Frames.lua
+Swing.lua
+Group.lua
+Options.lua
