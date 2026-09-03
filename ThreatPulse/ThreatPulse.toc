@@ -1,0 +1,16 @@
+## Interface: 20505
+## Title: ThreatPulse
+## Notes: Live threat meter with warnings, tank view, TTP, and per-ability threat estimation. Companion to PulseMeter + LogLovers.
+## Author: Jabe
+## Version: 0.1.0
+## SavedVariables: ThreatPulseDB
+
+Core.lua
+ThreatValues.lua
+ThreatAPI.lua
+LogThreat.lua
+TTP.lua
+Warnings.lua
+UI.lua
+Options.lua
+Integration.lua
