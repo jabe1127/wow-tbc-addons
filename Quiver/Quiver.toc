@@ -1,0 +1,13 @@
+## Interface: 20505
+## Title: Quiver |cffffd200Hunter|r
+## Notes: Cast feed, melee range glow, swing fill, aspect and pet warnings. Built for TBC Anniversary.
+## Author: Jabe
+## Version: 3.0.0
+## IconTexture: Interface\Icons\INV_Weapon_Bow_07
+## SavedVariables: QuiverDB
+
+Core.lua
+Alerts.lua
+Events.lua
+Warnings.lua
+Options.lua
