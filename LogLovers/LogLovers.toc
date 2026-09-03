@@ -1,0 +1,26 @@
+## Interface: 20506, 20505
+## Title: |cff33ff99Log|r |cffffffffLovers|r
+## Notes: Advanced combat log and chat replacement: rich interactive events, spell tooltips, tabbed chat, breakout windows, filters, search, death recaps, stats, and export.
+## Author: Jabe
+## Version: 1.14.0
+## SavedVariables: LogLoversDB
+## X-Category: Combat
+## X-License: MIT
+## IconTexture: Interface\AddOns\LogLovers\Icon.tga
+
+Constants.lua
+Util.lua
+Core.lua
+Filters.lua
+Players.lua
+Format.lua
+Events.lua
+Windows.lua
+Popups.lua
+DeathRecap.lua
+Stats.lua
+Export.lua
+Chat.lua
+ChatWindow.lua
+Options.lua
+API.lua
