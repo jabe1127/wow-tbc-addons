@@ -1,0 +1,15 @@
+## Interface: 20505, 20506
+## Title: Moonglass
+## Notes: A beautiful, customizable minimap — one-button collector, info bar, far zoom, and clear queue indicators.
+## Author: Jabe
+## Version: 1.5.0
+## SavedVariables: MoonglassDB
+
+Core.lua
+Map.lua
+ButtonBag.lua
+InfoBar.lua
+FarZoom.lua
+Queues.lua
+Quests.lua
+Options.lua
