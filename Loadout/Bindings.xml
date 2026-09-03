@@ -1,0 +1,21 @@
+<Bindings>
+    <Binding name="LOADOUT_TOGGLE"  header="Loadout" category="ADDONS">
+        Loadout:Fire("TOGGLE_MAIN")
+    </Binding>
+    <Binding name="LOADOUT_OPTIONS" category="ADDONS">
+        Loadout:Fire("TOGGLE_OPTIONS")
+    </Binding>
+    <Binding name="LOADOUT_UNDRESS" category="ADDONS">
+        Loadout.Equip:UnequipAll(false) Loadout.Rules:Release()
+    </Binding>
+    <Binding name="LOADOUT_SET1"  category="ADDONS">Loadout:EquipSetByIndex(1)</Binding>
+    <Binding name="LOADOUT_SET2"  category="ADDONS">Loadout:EquipSetByIndex(2)</Binding>
+    <Binding name="LOADOUT_SET3"  category="ADDONS">Loadout:EquipSetByIndex(3)</Binding>
+    <Binding name="LOADOUT_SET4"  category="ADDONS">Loadout:EquipSetByIndex(4)</Binding>
+    <Binding name="LOADOUT_SET5"  category="ADDONS">Loadout:EquipSetByIndex(5)</Binding>
+    <Binding name="LOADOUT_SET6"  category="ADDONS">Loadout:EquipSetByIndex(6)</Binding>
+    <Binding name="LOADOUT_SET7"  category="ADDONS">Loadout:EquipSetByIndex(7)</Binding>
+    <Binding name="LOADOUT_SET8"  category="ADDONS">Loadout:EquipSetByIndex(8)</Binding>
+    <Binding name="LOADOUT_SET9"  category="ADDONS">Loadout:EquipSetByIndex(9)</Binding>
+    <Binding name="LOADOUT_SET10" category="ADDONS">Loadout:EquipSetByIndex(10)</Binding>
+</Bindings>

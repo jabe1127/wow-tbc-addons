@@ -1,0 +1,29 @@
+## Interface: 20504
+## Title: Loadout
+## Notes: Clean, fast gear set management with hover-swap flyouts, a set editor, and rule-based auto-equip.
+## Author: -
+## Version: 1.3.0
+## SavedVariables: Loadout_DB, JGM_DB
+## SavedVariablesPerCharacter: Loadout_CharDB, JGM_CharDB
+
+Core.lua
+Util.lua
+Skin.lua
+Equip.lua
+Sets.lua
+Rules.lua
+Holds.lua
+Ammo.lua
+Queue.lua
+Share.lua
+Macro.lua
+UI_Flyout.lua
+UI_Sets.lua
+UI_Editor.lua
+UI_Main.lua
+UI_Minimap.lua
+UI_Bar.lua
+UI_GearBar.lua
+UI_Tooltip.lua
+UI_Queue.lua
+UI_Options.lua
