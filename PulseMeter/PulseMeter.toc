@@ -1,0 +1,21 @@
+## Interface: 20505
+## Title: PulseMeter
+## Notes: Full-featured damage/healing/utility meter with live edit-mode windows. TBC Anniversary.
+## Author: You
+## Version: 1.0.0
+## SavedVariables: PulseMeterDB
+## X-Category: Combat
+
+Core.lua
+Bosses.lua
+Archive.lua
+Skins.lua
+Parser.lua
+Modes.lua
+Window.lua
+EditMode.lua
+Layout.lua
+Browser.lua
+Options.lua
+LogLovers.lua
+API.lua
